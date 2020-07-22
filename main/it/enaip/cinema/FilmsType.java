@@ -1,0 +1,5 @@
+package it.enaip.cinema;
+
+public enum FilmsType {
+	FANTASY, TERROR, ACCION
+}

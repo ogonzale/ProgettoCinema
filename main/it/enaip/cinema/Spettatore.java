@@ -1,5 +1,5 @@
 package it.enaip.cinema;
 
-public class Spettatore {
-
+public enum spettatore {
+	ETA, NOME, FILM
 }
